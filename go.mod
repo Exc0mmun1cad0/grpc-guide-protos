@@ -1,4 +1,4 @@
-module github.com/Exc0mmun1cad0/protos
+module github.com/protos
 
 go 1.22.7
 
